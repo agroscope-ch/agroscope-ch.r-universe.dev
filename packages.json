@@ -4,11 +4,11 @@
         "url": "https://github.com/agroscope-ch/triact"
     },
     {
-        "package": "sqlparser",
+        "package": "sqlparseR",
         "url": "https://github.com/agroscope-ch/sqlparser"
     },
     {
-        "package": "openfoodtox",
+        "package": "OpenFoodTox",
         "url": "https://github.com/agroscope-ch/openfoodtox"
     }
 ]
