@@ -10,5 +10,9 @@
     {
         "package": "OpenFoodTox",
         "url": "https://github.com/agroscope-ch/openfoodtox"
+    },
+    {
+        "package": "srppp",
+        "url": "https://github.com/agroscope-ch/srppp"
     }
 ]
