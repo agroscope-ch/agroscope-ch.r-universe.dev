@@ -14,5 +14,9 @@
     {
         "package": "srppp",
         "url": "https://github.com/agroscope-ch/srppp"
+    },
+    {
+        "package": "srppphist",
+        "url": "https://github.com/agroscope-ch/srppphist"
     }
 ]
