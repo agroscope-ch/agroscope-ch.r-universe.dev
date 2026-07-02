@@ -18,5 +18,10 @@
     {
         "package": "srppphist",
         "url": "https://github.com/agroscope-ch/srppphist"
+    },
+     {
+        "package": "derappp",
+        "url": "https://github.com/agroscope-ch/derappp"
     }
 ]
+   
