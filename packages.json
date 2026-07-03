@@ -19,6 +19,10 @@
         "package": "srppphist",
         "url": "https://github.com/agroscope-ch/srppphist"
     },
+    {
+        "package": "chents",
+        "url": "https://github.com/jranke/chents"
+    },
      {
         "package": "derappp",
         "url": "https://github.com/agroscope-ch/derappp"
